@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DemoScrollView</string>
+    <string name="achieve">Did I achieve this goal today?</string>
 </resources>
